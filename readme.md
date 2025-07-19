@@ -51,4 +51,4 @@ I thrive on designing scalable cloud architectures and automating complex workfl
 ## 🤝 Let’s Connect!  
 - **LinkedIn:** [Manasvini Kottapally](https://www.linkedin.com/in/manasvini-kottapally)  
 - **GitHub:** [manasvini-kottapally](https://github.com/yourhandle) 
-- **Email:** kottapally.m@northeastern.edu  
+- **Email:** manasvinikottapally@outlook.com  
