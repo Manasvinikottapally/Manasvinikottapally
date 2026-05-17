@@ -2,7 +2,7 @@
 
 # I'm Manasvini Kottapally — Software Engineer focused on building scalable cloud-native applications, backend systems, and data-driven platforms.
 
-> ![](https://komarev.com/ghpvc/?username=manasvinikottapally&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=manasvinikottapally&style=flat-square&color=blue)
 
 ---
 
