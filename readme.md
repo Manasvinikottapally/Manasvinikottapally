@@ -110,6 +110,15 @@ I’m passionate about solving real-world engineering problems through scalable 
 - Automated stock validation, order processing, and inventory transfers using SQL triggers and stored procedures
 - Implemented RBAC, constraints, and materialized views to improve data security, reporting efficiency, and query performance
 
+### 🔋 Battery Data Engineering Platform
+Python | Pandas | ETL | Parquet | DVC | Battery Time-Series Data
+
+- Developed modular Python ETL workflows to transform NASA battery aging datasets into structured, analysis-ready data
+- Processed 2,167 battery-cycle records and 2,089,050 measurement records across four battery datasets
+- Extracted and normalized voltage, current, temperature, timestamps, and charge/discharge measurements
+- Implemented automated validation for missing data, out-of-range voltage readings, duplicates, and referential integrity
+- Used Parquet for structured storage and DVC for reproducible data processing workflows
+
 ---
 
 ## 🎓 Education
